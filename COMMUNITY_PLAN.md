@@ -1,1 +1,3 @@
-Describe the plan to support the community
+For BitGuild, becoming a Super Representative allows us the possibility to expand TRON and blockchain adoption to more general gaming audiences. As such, we are committed to distributing rewards to the community in thanks for their support.
+
+For a limited time, as the TRON community gets to know us, we will be giving back 115% of our block rewards to voters - more than what we stand to earn! We sincerely hope this encourages community growth and blockchain gaming adoption. At BitGuild, we believe gaming could be the key to driving mass adoption for blockchain and cryptocurrencies. Voting rewards will be automatically distributed to voters’ TRON wallets every 24 hours.
