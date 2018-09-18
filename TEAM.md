@@ -22,6 +22,7 @@ Jared has been an important player in the Real Money Trade industry of virtual i
 ## Team Member 2
 
 **Name:** Mikhail Larionov
+
 **Role:** CTO of BitGuild
 
   Mikhail comes from a background of game production and development, having worked for Disney in 2011 on some of their high profile web games. Mikhail later moved on to Facebook, where he was the engineering manager for the Messenger platform. He now serves as lead engineer and chief technology officer at BitGuild.
@@ -29,6 +30,7 @@ Jared has been an important player in the Real Money Trade industry of virtual i
 ## Team Member 3
 
 **Name:** Rainy Xiao
+
 **Role:** Head of Blockchain Engineering at BitGuild
 
   Rainy serves as the Head of Blockchain Engineering in Asia for BitGuild - ensuring that our backend systems are running as smooth as can be. She’s built and maintained online platforms and data centers for audiences of over 100 million.
