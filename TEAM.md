@@ -3,8 +3,9 @@ Key members include:
 
 ## Founder
 
-Name: Jared Psigoda
-Role: CEO / Guildmaster of BitGuild
+**Name:** Jared Psigoda
+
+**Role:** CEO / Guildmaster of BitGuild
 
   Before founding BitGuild, Jared was CEO and co-founder of Reality Squared Games, a successful video game developer and publisher with over 80 million gamers, which he took public in Asia in 2016. He has since founded Livestar; a development studio focused on bringing live streaming and other social media apps to a global audience. 
 
