@@ -3,12 +3,19 @@
 我们在2018年4月成功完成了初始代币发售，筹集了超过2000万美元的公共资金和私人资金。我们的平台向所有人开放，目前为加密货币游戏玩家和爱好者们提供各种不同的游戏。
 
 BitGuild Portal: www.bitguild.com
+
 BitGuild Business: www.bitguild.io
+
 Twitter: https://btgld.co/TwitterTSR
+
 Medium: https://btgld.co/BlogTSR
+
 Telegram: https://btgld.co/TelegramTSR
+
 Facebook: https://btgld.co/FacebookTSR
+
 Reddit: https://btgld.co/RedditTSR
+
 Discord: https://btgld.co/DiscordTSR
 
 
