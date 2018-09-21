@@ -4,9 +4,9 @@ Through the power of blockchain, BitGuild redefines what it means to own digital
 
 We successfully completed our initial token sale in April 2018, raising over $20 million USD in public and private funding. Our platform is open to all, and currently hosts a variety of games for cryptocurrency gamer/aficionados to enjoy.
 
-BitGuild Portal: www.bitguild.com
+BitGuild Portal: https://www.bitguild.com
 
-BitGuild Business: www.bitguild.io
+BitGuild Business: https://www.bitguild.io
 
 Twitter: https://btgld.co/TwitterTSR
 
