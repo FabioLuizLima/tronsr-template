@@ -2,9 +2,9 @@
 通过区块链的强大功能，BitGuild重新定义了游戏中拥有数字资产（角色，物品，金币等）的意义。我们的使命是通过为用户提供最佳的区块链游戏体验，将现有的区块链游戏用户与传统的PC，游戏机和手机游戏受众汇集在一起。
 我们在2018年4月成功完成了初始代币发售，筹集了超过2000万美元的公共资金和私人资金。我们的平台向所有人开放，目前为加密货币游戏玩家和爱好者们提供各种不同的游戏。
 
-BitGuild Portal: www.bitguild.com
+BitGuild Portal: https://www.bitguild.com
 
-BitGuild Business: www.bitguild.io
+BitGuild Business: https://www.bitguild.io
 
 Twitter: https://btgld.co/TwitterTSR
 
