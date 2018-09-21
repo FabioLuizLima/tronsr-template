@@ -4,7 +4,21 @@ Through the power of blockchain, BitGuild redefines what it means to own digital
 
 We successfully completed our initial token sale in April 2018, raising over $20 million USD in public and private funding. Our platform is open to all, and currently hosts a variety of games for cryptocurrency gamer/aficionados to enjoy.
 
+BitGuild Portal: www.bitguild.com
 
+BitGuild Business: www.bitguild.io
+
+Twitter: https://btgld.co/TwitterTSR
+
+Medium: https://btgld.co/BlogTSR
+
+Telegram: https://btgld.co/TelegramTSR
+
+Facebook: https://btgld.co/FacebookTSR
+
+Reddit: https://btgld.co/RedditTSR
+
+Discord: https://btgld.co/DiscordTSR
 
 ## Why BitGuild for Super Representative?
   As a gaming and entertainment company, we represent one of the industries that is most apt at pushing new technologies into mainstream markets, and as such, we are a perfect choice for TRON Super Representative status. BitGuild will promote TRON awareness to wider audiences by developing and hosting fun and compelling games, community interactions, and offering real-world adoption avenues for TRON, TRX, and cryptocurrency in general.
