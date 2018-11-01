@@ -21,11 +21,11 @@ Jared has been an important player in the Real Money Trade industry of virtual i
 
 ## CTO
 
-**Name:** Mikhail Larionov
+**Name:** Roy (Rovak) van Kaathoven
 
 **Role:** CTO of BitGuild
 
-  Mikhail comes from a background of game production and development, having worked for Disney in 2011 on some of their high profile web games. Mikhail later moved on to Facebook, where he was the engineering manager for the Messenger platform. He now serves as lead engineer and chief technology officer at BitGuild.
+  Roy (Rovak) van Kaathoven is known for his considerable contributions and involvement with the TRON community, having built both TronScan.org and GoSeedit.io. With years of experience as a product owner, technical manager, and full-stack engineer, Roy is leading the charge on BitGuild’s blockchain development projects.
 
 ## Head of Blockchain Engineering
 
