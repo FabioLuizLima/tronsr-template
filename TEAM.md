@@ -13,11 +13,11 @@ Jared has been an important player in the Real Money Trade industry of virtual i
 
 ## COO
 
-**Name:** Curtis Chiu
+**Name:** Rainy Xiao
 
 **Role:** COO of BitGuild
 
-  Curtis has over 18 years of experience in the video game industry, having worked in development, publishing, and operations roles over every major platform for the likes of Konami, Kabam, and Sega in the US and Asia.
+  Rainy serves as the Chief of Operations Officer for BitGuild - ensuring that our backend systems are running as smooth as can be. She’s built and maintained online platforms and data centers for audiences of over 100 million.
 
 ## CTO
 
@@ -27,17 +27,17 @@ Jared has been an important player in the Real Money Trade industry of virtual i
 
   Roy (Rovak) van Kaathoven is known for his considerable contributions and involvement with the TRON community, having built both TronScan.org and GoSeedit.io. With years of experience as a product owner, technical manager, and full-stack engineer, Roy is leading the charge on BitGuild’s blockchain development projects.
 
-## Head of Blockchain Engineering
+## Director of Marketing
 
-**Name:** Rainy Xiao
+**Name:** Fabio Lima
 
-**Role:** Head of Blockchain Engineering at BitGuild
+**Role:** Director of Marketing at BitGuild
 
-  Rainy serves as the Head of Blockchain Engineering for BitGuild - ensuring that our backend systems are running as smooth as can be. She’s built and maintained online platforms and data centers for audiences of over 100 million.
+  Fabio de Lima is an experienced marketing professional with over 10 years of experience in promoting games and apps and creating and managing large communities. Over the course of his career, Fabio has helped gaming and entertainment companies in Asia, Europe, North and South America launch successful products and reach millions of users.  
 
 ## ...and more!
 
-  BitGuild isn't just a handful of names, we are a large group of highly serious people. We have an established presence in two of the largest tech hubs in the world - San Francisco and Shenzhen, as well as operations in Tokyo and Hong Kong. Our SF office is where we develop the foundation for BitGuild - the website, backend systems, smart contracts, and more - as well as the main location from which we handle business development.
-The game development team in Shenzhen, China is hard at work creating blockchain gaming experiences for our fans to enjoy. Also in Shenzhen you can find most of our marketing team, as well as general operations and specialized blockchain application development teams. Finally, we have a BitGuild outpost in Tokyo, Japan focused on community and business development in Asia.
+  BitGuild isn't just a handful of names, we are a large group of highly serious people. We have an established presence in two of the largest tech hubs in the world - San Francisco and Shenzhen, as well as operations in Tokyo and Hong Kong. The development team in Shenzhen, China is hard at work creating blockchain applications and solutions to drive adoption of cryptocurrency forward. Also in Shenzhen you can find most of our marketing team, as well as general operations and specialized blockchain application development teams. 
 
-BitGuild is still growing! We currently have over 80 employees from 10+ countries working on game development, platform engineering, business development, marketing, public relations, and more!
+
+BitGuild is still growing! We currently have over 50 employees from 10+ countries working on dapps development, platform engineering, business development, marketing, public relations, and more!
